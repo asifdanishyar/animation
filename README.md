@@ -1,2 +1,3 @@
 # animation
-this project is made for animation practices
+this project is made for animation practices...
+hover your mouse on the object and see the result.
